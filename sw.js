@@ -2,6 +2,7 @@
 
 var APP_CACHE = 'restaurant-v1';
 var fileCache = [
+  '/',
   'index.html',
   'restaurant.html',
   'css/styles.css',
