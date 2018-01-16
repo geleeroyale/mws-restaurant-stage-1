@@ -344,14 +344,9 @@ nav h1 a {
 	  height: 20vh;
 		width: 100%;
 	  position: relative;
-	  top: 10vh;
 	}
 	.inside #footer {
 	  width: 100%;
-	}
-	#map-container {
-		height: 20vh;
-		width: 100%;
 	}
 	#restaurant-container, #reviews-container {
 		max-width: 100%;
