@@ -366,3 +366,17 @@ nav h1 a {
     font-size: 2rem;
 	}
 }
+/* ====================== Accessibility ========================== */
+
+.skip-link {
+  position: absolute;
+  top: -5rem;
+  left: 0;
+  background-color: yellow;
+  padding: 8px;
+  z-index: 1000;
+}
+
+.skip-link:focus {
+  top: 5rem;
+}
